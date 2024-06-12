@@ -1,6 +1,7 @@
 # 💫 About Me:
 Experienced Senior Software Engineer with 5+ years of expertise in PHP, Java, Node.js, AWS, Serverless, Angular, and GraphQL. Skilled in building scalable web applications using JavaScript/TypeScript. Proven track record in designing and implementing cost-effective serverless and microservices architectures for improved reliability. Committed to ongoing learning and professional growth in the dynamic field of software development.
 
+[![](https://visitcount.itsvg.in/api?id=kimbelas&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kimcabarlebelas) 
@@ -19,8 +20,6 @@ Experienced Senior Software Engineer with 5+ years of expertise in PHP, Java, No
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kimbelas&icon=0&color=0)](https://visitcount.itsvg.in)
-
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kimbelas) 
 
