@@ -18,10 +18,5 @@ Experienced Senior Software Engineer with 5+ years of expertise in PHP, Java, No
 
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
----
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kimbelas) 
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
