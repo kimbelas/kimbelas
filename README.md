@@ -15,8 +15,5 @@ Experienced Senior Software Engineer with 5+ years of expertise in PHP, Java, No
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
