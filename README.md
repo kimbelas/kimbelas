@@ -1,5 +1,9 @@
 # 💫 About Me:
-Experienced Senior Software Engineer with 5+ years of expertise in PHP, Java, Node.js, AWS, Serverless, Angular, and GraphQL. Skilled in building scalable web applications using JavaScript/TypeScript. Proven track record in designing and implementing cost-effective serverless and microservices architectures for improved reliability. Committed to ongoing learning and professional growth in the dynamic field of software development.
+Experienced Full-Stack Developer with 6+ years of expertise in modern web development, specializing in React.js, Next.js, TypeScript, and Node.js. Proven track record of delivering high-performance, scalable applications with 95+ Lighthouse scores and sub-2-second load times.
+
+Expert in frontend development with React ecosystem, backend API developmentusing Node.js and PHP, and database management with MongoDB, MySQL, and PostgreSQL. Strong experience in DevOps practices, AWS cloud services, and modern CI/CD pipelines.
+
+Passionate about user experience (UX), responsive design, and agile development methodologies. Committed to writing clean, maintainable code following industry best practices and contributing to collaborative team environments.
 
 [![](https://visitcount.itsvg.in/api?id=kimbelas&icon=0&color=0)](https://visitcount.itsvg.in)
 
