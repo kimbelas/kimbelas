@@ -96,7 +96,7 @@ const kim = {
 
 <div align="center">
 
-[![Momentum ACPB](https://github-readme-stats.vercel.app/api/pin/?username=kimbelas&repo=momentum-acpb&theme=tokyonight)](https://momentum-acpb.vercel.app/)
+[![Momentum ACPB](https://github-readme-stats.vercel.app/api/pin/?username=kimbelas&repo=momentum&theme=tokyonight)](https://momentum-acpb.vercel.app/)
 [![ShopNest](https://github-readme-stats.vercel.app/api/pin/?username=kimbelas&repo=shopnest&theme=tokyonight)](https://shopnest-nine.vercel.app/)
 
 </div>
