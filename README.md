@@ -76,10 +76,6 @@ const kim = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimbelas&layout=compact&langs_count=8&theme=tokyonight&hide=jupyter%20notebook"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimbelas&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 ## ⚡ Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kimbelas&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
