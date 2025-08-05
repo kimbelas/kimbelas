@@ -1,23 +1,246 @@
-# 💫 About Me:
-Experienced Full-Stack Developer with 6+ years of expertise in modern web development, specializing in React.js, Next.js, TypeScript, and Node.js. Proven track record of delivering high-performance, scalable applications with 95+ Lighthouse scores and sub-2-second load times.
+# Hi there! 👋 I'm Kim Cabarle Belas
 
-Expert in frontend development with React ecosystem, backend API developmentusing Node.js and PHP, and database management with MongoDB, MySQL, and PostgreSQL. Strong experience in DevOps practices, AWS cloud services, and modern CI/CD pipelines.
-
-Passionate about user experience (UX), responsive design, and agile development methodologies. Committed to writing clean, maintainable code following industry best practices and contributing to collaborative team environments.
-
-[![](https://visitcount.itsvg.in/api?id=kimbelas&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kimcabarlebelas) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kimbelas&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kimbelas&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kimbelas&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<div align="center">
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+%26+Next.js+Specialist;6%2B+Years+Experience;Performance+Enthusiast)
+  
+</div>
+
+## 🚀 About Me
+
+I'm a **Full-Stack Developer** with **6+ years** of experience crafting high-performance web applications. I specialize in modern JavaScript frameworks and have a passion for creating seamless user experiences with clean, maintainable code.
+
+```javascript
+const kim = {
+  code: ["JavaScript", "TypeScript", "PHP", "Java"],
+  technologies: {
+    frontend: ["React", "Next.js", "Angular", "Vue.js"],
+    backend: ["Node.js", "Express.js", "PHP"],
+    databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
+    cloud: ["AWS", "Docker", "GitHub Actions"],
+    tools: ["Git", "Jira", "SonarQube", "Swagger"]
+  },
+  achievements: {
+    lighthouse_scores: "95+",
+    load_times: "< 2 seconds",
+    experience: "6+ years"
+  },
+  currently_learning: ["Web3.js", "Advanced AWS Services"],
+  fun_fact: "I optimize code like I optimize my coffee ☕"
+};
+```
+
+## 🎯 What I Do
+
+- 🔥 Build **scalable web applications** with React.js & Next.js
+- ⚡ Optimize performance to achieve **95+ Lighthouse scores**
+- 🎨 Create **responsive, user-friendly interfaces**
+- 🔧 Develop **robust backend APIs** with Node.js
+- ☁️ Deploy and manage applications on **AWS**
+- 📱 Build **progressive web apps** and mobile-first experiences
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Skills Widget
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,php,mysql,mongodb,aws,docker,git&theme=dark)](https://skillicons.dev)
+
+</div>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kimbelas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimbelas&layout=compact&langs_count=8&theme=tokyonight&hide=jupyter%20notebook"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimbelas&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## ⚡ Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kimbelas&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  
+![trophy](https://github-profile-trophy.vercel.app/?username=kimbelas&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
+
+</div>
+
+## 📊 Coding Stats & Activity
+
+### WakaTime Weekly Breakdown
+<!--START_SECTION:waka-->
+```text
+TypeScript   8 hrs 45 mins   ████████████░░░░░░░░░░░░░   48.2%
+React        6 hrs 12 mins   ████████░░░░░░░░░░░░░░░░░   34.1%
+JavaScript   2 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.4%
+CSS          1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░    5.3%
+```
+<!--END_SECTION:waka-->
+
+### WakaTime Detailed Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kimbelas&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
+</div>
+
+## 🐍 Contribution Snake
+<div align="center">
+  
+![Snake animation](https://github.com/kimbelas/kimbelas/blob/output/github-contribution-snake.svg)
+
+</div>
+
+## 🎵 Currently Vibing To
+<div align="center">
+  
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31l26yvapaq2trml4b6usy7kyohy&count=3&unique=true)](https://open.spotify.com/user/31l26yvapaq2trml4b6usy7kyohy)
+
+</div>
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+[![Momentum ACPB](https://github-readme-stats.vercel.app/api/pin/?username=kimbelas&repo=momentum-acpb&theme=tokyonight)](https://momentum-acpb.vercel.app/)
+[![ShopNest](https://github-readme-stats.vercel.app/api/pin/?username=kimbelas&repo=shopnest&theme=tokyonight)](https://shopnest-nine.vercel.app/)
+
+</div>
+
+## 😄 Random Dev Humor
+<div align="center">
+  
+[![Readme Jokes](https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight)](https://github.com/ABSphreak/readme-jokes)
+
+</div>
+
+## 💡 Daily Dev Quote
+
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kimcabarlebelas)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.mattbelas.online/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kim@mattbelas.online)
+
+### Profile Stats
+![Profile Views](https://komarev.com/ghpvc/?username=kimbelas&color=blueviolet&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/kimbelas?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
+![GitHub User's stars](https://img.shields.io/github/stars/kimbelas?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=for-the-badge&color=0891b2&labelColor=1c1917)
+
+</div>
+
+---
+
+## 🛠️ Setup Instructions for Dynamic Widgets
+
+<details>
+<summary>Click to expand setup instructions</summary>
+
+### 🔧 WakaTime Coding Stats Setup:
+1. **Sign up** at [WakaTime](https://wakatime.com)
+2. **Install WakaTime plugin** in your code editor (VS Code, IntelliJ, etc.)
+3. **Get API key** from WakaTime Account Settings
+4. **Add to GitHub Secrets** as `WAKATIME_API_KEY`
+5. **Create workflow** `.github/workflows/waka-readme.yml`:
+
+```yaml
+name: Waka Readme
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+```
+
+### 🐍 Contribution Snake Setup:
+1. **Create workflow** `.github/workflows/snake.yml`:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: kimbelas
+          outputs: |
+            dist/github-contribution-snake.svg
+            dist/github-contribution-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+### 🎵 Spotify Setup:
+1. **Connect Spotify** account to the widget service
+2. **Replace username** in the Spotify widget URL with your Spotify username
+3. **Make profile public** in Spotify settings
+
+### 🏆 All Other Widgets:
+- Most widgets work automatically just by changing the username
+- GitHub stats, trophies, and quotes update in real-time
+- No additional setup required!
+
+</details>
+
+---
+
+<div align="center">
+
+**"First, solve the problem. Then, write the code."** - John Johnson
+
+*Building the future, one commit at a time* 🚀
+
+</div>
