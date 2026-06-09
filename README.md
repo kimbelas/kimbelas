@@ -2,13 +2,13 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+%26+Next.js+Specialist;6%2B+Years+Experience;Performance+Enthusiast)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+%26+Next.js+Specialist;7%2B+Years+Experience;Performance+Enthusiast)
   
 </div>
 
 ## 🚀 About Me
 
-I'm a **Full-Stack Developer** with **6+ years** of experience crafting high-performance web applications. I specialize in modern JavaScript frameworks and have a passion for creating seamless user experiences with clean, maintainable code.
+I'm a **Full-Stack Developer** with **7+ years** of experience crafting high-performance web applications. I specialize in modern JavaScript frameworks and have a passion for creating seamless user experiences with clean, maintainable code.
 
 ```javascript
 const kim = {
@@ -81,36 +81,6 @@ const kim = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kimbelas&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=kimbelas&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
-
-</div>
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Momentum ACPB](https://github-readme-stats.vercel.app/api/pin/?username=kimbelas&repo=momentum&theme=tokyonight)](https://momentum-acpb.vercel.app/)
-[![ShopNest](https://github-readme-stats.vercel.app/api/pin/?username=kimbelas&repo=shopnest&theme=tokyonight)](https://shopnest-nine.vercel.app/)
-
-</div>
-
-## 😄 Random Dev Humor
-<div align="center">
-  
-[![Readme Jokes](https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight)](https://github.com/ABSphreak/readme-jokes)
-
-</div>
-
-## 💡 Daily Dev Quote
-
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
 
 ## 🤝 Let's Connect!
 
